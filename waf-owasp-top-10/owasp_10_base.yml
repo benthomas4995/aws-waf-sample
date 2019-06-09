@@ -1022,9 +1022,39 @@ Resources:
         - Type: IPV4
           Value: 192.168.0.0/16
         - Type: IPV4
-          Value: 169.254.0.0/16
+          Value: 169.254.0.0/16          
         - Type: IPV4
-          Value: 172.16.0.0/12
+          Value: 172.16.0.0/16
+        - Type: IPV4   
+          Value: 172.17.0.0/16
+        - Type: IPV4
+          Value: 172.18.0.0/16
+        - Type: IPV4
+          Value: 172.19.0.0/16
+        - Type: IPV4
+          Value: 172.20.0.0/16
+        - Type: IPV4
+          Value: 172.21.0.0/16
+        - Type: IPV4
+          Value: 172.22.0.0/16
+        - Type: IPV4
+          Value: 172.23.0.0/16
+        - Type: IPV4
+          Value: 172.24.0.0/16
+        - Type: IPV4
+          Value: 172.25.0.0/16
+        - Type: IPV4
+          Value: 172.26.0.0/16
+        - Type: IPV4
+          Value: 172.27.0.0/16
+        - Type: IPV4
+          Value: 172.28.0.0/16
+        - Type: IPV4
+          Value: 172.29.0.0/16
+        - Type: IPV4
+          Value: 172.30.0.0/16
+        - Type: IPV4
+          Value: 172.31.0.0/16          
         - Type: IPV4
           Value: 127.0.0.1/32
   wafgBlacklistIpSet:
@@ -1040,7 +1070,37 @@ Resources:
         - Type: IPV4
           Value: 169.254.0.0/16
         - Type: IPV4
-          Value: 172.16.0.0/12
+          Value: 172.16.0.0/16
+        - Type: IPV4   
+          Value: 172.17.0.0/16
+        - Type: IPV4
+          Value: 172.18.0.0/16
+        - Type: IPV4
+          Value: 172.19.0.0/16
+        - Type: IPV4
+          Value: 172.20.0.0/16
+        - Type: IPV4
+          Value: 172.21.0.0/16
+        - Type: IPV4
+          Value: 172.22.0.0/16
+        - Type: IPV4
+          Value: 172.23.0.0/16
+        - Type: IPV4
+          Value: 172.24.0.0/16
+        - Type: IPV4
+          Value: 172.25.0.0/16
+        - Type: IPV4
+          Value: 172.26.0.0/16
+        - Type: IPV4
+          Value: 172.27.0.0/16
+        - Type: IPV4
+          Value: 172.28.0.0/16
+        - Type: IPV4
+          Value: 172.29.0.0/16
+        - Type: IPV4
+          Value: 172.30.0.0/16
+        - Type: IPV4
+          Value: 172.31.0.0/16
         - Type: IPV4
           Value: 127.0.0.1/32
   wafrBlacklistIpRule:
